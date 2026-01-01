@@ -1,0 +1,11 @@
+#pragma once
+
+enum class RaisingType
+{
+    GREEN_MONG_DECORATION = 0,
+    RED_MONG_DECORTAION,
+    PINK_MONG_DECORATION,
+    BLUE_MONG_DECORATION,
+    MONG_APARTMENT,
+    AWESOME_FEEDSTUFF
+};
